@@ -21,7 +21,7 @@ The following describe how to run the sample code of the In-app Chat UIKit.
 1. Download the sample code, open the `keyCenter.ts` file under the `Samples/ZIMKitDemo/src` directory using VSCode (or other programming software), and fill in the `appID` and `serverSecret` you get from the ZEGOCLOUD Admin Console.
 
 ```javascript
-    const appConfig = {
+    export default {
         appID: 0,         // The AppID you get from ZEGOCLOUD Admin Console.
         serverSecret: '', // The ServerSecret you get from ZEGOCLOUD Admin Console.
     };
