@@ -2,6 +2,10 @@
 
 ---
 
+[![](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EtNRATttyp)
+
+> If you have any questions regarding bugs and feature requests, visit the [ZEGOCLOUD community](https://discord.gg/EtNRATttyp) .
+
 In-app Chat UIKit is a UI component library based on the In-app Chat SDK. It provides general UI components, such as the session list, one-on-one chat, and group chat. You can use In-app Chat UIKit to quickly build custom IM applications based on actual business requirements.
 
 In addition to implementing UI features, components of In-app Chat UIKit can call related API methods of the In-app Chat SDK to implement logic and data processing related to the In-app Chat. With this In-app Chat UIKit, you only need to focus on the business logic or personalized extension.
@@ -47,7 +51,3 @@ In-app Chat UIKit can be used on Android, iOS, and Web client apps.
 - To get started swiftly, follow the steps in this doc: [Integrate the SDK](https://docs.zegocloud.com/article/14665)
 - To explore more customizable components, check this out: [Component overview](https://docs.zegocloud.com/article/14668)
 - To check and run the sample code, click here: [Run the sample code](https://docs.zegocloud.com/article/14983)
-
-## Get support
-
-If you have any questions regarding bugs and feature requests, visit the [ZEGOCLOUD community](https://discord.gg/EtNRATttyp).
